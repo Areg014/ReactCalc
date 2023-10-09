@@ -7,8 +7,8 @@ export default function Home() {
             <Link to="/calc">
             <section>
                 <div class="content">
-                    <h2>CALCULATOR</h2>
-                    <h2>CALCULATOR</h2>
+                    <h2>CALCULADORA</h2>
+                    <h2>CALCULADORA</h2>
                 </div>
             </section>
             </Link>

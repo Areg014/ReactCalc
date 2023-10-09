@@ -28,6 +28,9 @@ function Calc() {
             ))}
           </ButtonBox>
         </Wrapper>
+        <Link to="/">
+          <button class="button-back" role="button"><span class="text">REGRESAR</span></button>
+        </Link>
       </CalcProvider>
     );
 }
